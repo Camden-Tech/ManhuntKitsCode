@@ -1,0 +1,16 @@
+main: me.BaddCamden.ManhuntKits.Main
+name: ManhuntKits
+version: 1.0
+author: BaddCamden
+
+depend: [ManhuntPlus]
+
+commands:
+    mkstart:
+       description: "starts the manhunt kit plugin"
+    mkstop:
+       description: "stops the manhunt kit plugin"
+    mkkits:
+       description: "messes with the kits"
+       
+api-version: 1.17
